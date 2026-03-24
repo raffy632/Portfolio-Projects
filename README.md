@@ -13,3 +13,5 @@ attendance and exam scores going up. As you attended more classes the higher mar
 This project and analysis was done with the intention out of pure curiosity and the interest of learning to better improve my abilities. While the data shows 
 strong correlation between the attendance and score, it should be viewed as an exploration case study and my intention was to try and implement my education
 and business intelligence to the extrapolated dataset.
+
+DATASET is from Kaggle, https://www.kaggle.com/datasets/grandmaster07/student-exam-performance-dataset-analysis by Muhammad Shoaib
